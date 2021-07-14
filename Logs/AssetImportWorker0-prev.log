@@ -1,0 +1,2773 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 16347 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Projects/UBO/POOUnidadIII
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50317
+Successfully changed project path to: D:/Projects/UBO/POOUnidadIII
+D:/Projects/UBO/POOUnidadIII
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 60.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Projects/UBO/POOUnidadIII/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   30.0.14.7111
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56008
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002408 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 74.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.947 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005857 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 48.21 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.498 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.93 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.4 MB.
+System memory in use after: 93.3 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 2531.
+Total: 2.309400 ms (FindLiveObjects: 0.240100 ms CreateObjectMapping: 0.113200 ms MarkObjects: 1.826500 ms  DeleteObjects: 0.128400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/WZ PAK/scen.FBX
+  artifactKey: Guid(1b2ccc47ebd253a47bb9f8f1afd20f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/scen.FBX using Guid(1b2ccc47ebd253a47bb9f8f1afd20f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa5353eeff3ef743ba7d9feae1a162f4') in 3.569590 seconds
+  Import took 3.578056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/WZ PAK/building/bp.FBX
+  artifactKey: Guid(6f23dc5eea0354344896ec0532e30a41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/bp.FBX using Guid(6f23dc5eea0354344896ec0532e30a41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d32a2d28d3cdf9d4f8bca43ed8327b3') in 0.020110 seconds
+  Import took 0.023624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/WZ PAK/building/pipe12.FBX
+  artifactKey: Guid(92dd76b258f26ca408dec22273ac15dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/pipe12.FBX using Guid(92dd76b258f26ca408dec22273ac15dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6bfe0c436e7530605d3174bcfe78cac') in 0.018593 seconds
+  Import took 0.022827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/WZ PAK/building
+  artifactKey: Guid(8eb2795bea871cc4794d18cb0fab1e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building using Guid(8eb2795bea871cc4794d18cb0fab1e25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f6da5167e8545543a930523f95d6209') in 0.008888 seconds
+  Import took 0.014321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/WZ PAK/building/b4.FBX
+  artifactKey: Guid(6b29fc9d4a45a4045b812449c36a15f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/b4.FBX using Guid(6b29fc9d4a45a4045b812449c36a15f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb93b28addfff64b1b298ae71960f39d') in 0.024443 seconds
+  Import took 0.030203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/WZ PAK/building/bp4.FBX
+  artifactKey: Guid(ae2fcef7080e11647880aeac947843da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/bp4.FBX using Guid(ae2fcef7080e11647880aeac947843da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53e6d11928a6486107be4d5bc90ff46d') in 0.013462 seconds
+  Import took 0.018007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/WZ PAK/building/pm2.FBX
+  artifactKey: Guid(bd69ac9d39c5bc940a8fbe5b75624a4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/pm2.FBX using Guid(bd69ac9d39c5bc940a8fbe5b75624a4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fa0e756ad1f7bfdd9cff19aedd55460') in 0.016825 seconds
+  Import took 0.021714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/WZ PAK/building/fence_r2.FBX
+  artifactKey: Guid(33dcfacd58213f6439617ea1f91e9d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/fence_r2.FBX using Guid(33dcfacd58213f6439617ea1f91e9d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa2aa8ee922542f008bcceec615c98ff') in 0.019215 seconds
+  Import took 0.024194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/WZ PAK/building/bm4.FBX
+  artifactKey: Guid(988df78a6e8eadc4799179349c466dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/bm4.FBX using Guid(988df78a6e8eadc4799179349c466dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef000ea09d6bf267d04f603d81b93c9e') in 0.021820 seconds
+  Import took 0.026607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/WZ PAK/building/g3.FBX
+  artifactKey: Guid(4eba5ab2f9324c5459c5aa8c92d34d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/g3.FBX using Guid(4eba5ab2f9324c5459c5aa8c92d34d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0f13fb2a8e96000cf615d7191f08520') in 0.014975 seconds
+  Import took 0.018393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/WZ PAK/building/sb2.FBX
+  artifactKey: Guid(46f310ed4c8f59a459d817928aff44ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/sb2.FBX using Guid(46f310ed4c8f59a459d817928aff44ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ff08bce00b2f61edcf9d175f6906f82') in 0.018216 seconds
+  Import took 0.021633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/WZ PAK/building/bm3.FBX
+  artifactKey: Guid(967dbe20d0a4366489b7a442530d46c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/bm3.FBX using Guid(967dbe20d0a4366489b7a442530d46c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1ba0d355cfe14d6c40edfd5e68b55c4') in 0.018826 seconds
+  Import took 0.022921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/WZ PAK/building/tanker11.FBX
+  artifactKey: Guid(55fb0c9101887eb48b4c407325f189fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/tanker11.FBX using Guid(55fb0c9101887eb48b4c407325f189fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ee662a3d69099484a7a712f6740e9e4') in 0.013388 seconds
+  Import took 0.016785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/WZ PAK/building/g1.FBX
+  artifactKey: Guid(38ba23354bdbf534898c3575ecdf0390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/g1.FBX using Guid(38ba23354bdbf534898c3575ecdf0390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af9053d3cef90c3b76e3c5d6f1e468b1') in 0.031076 seconds
+  Import took 0.037220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/WZ PAK/building/pipe4.FBX
+  artifactKey: Guid(ebf7808ca7044884caf93c13bce3971c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/pipe4.FBX using Guid(ebf7808ca7044884caf93c13bce3971c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b8cd0ea2c593bcc11af6dd8cad75c69') in 0.023445 seconds
+  Import took 0.027701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/WZ PAK/building/tanker8.FBX
+  artifactKey: Guid(832f211b840139d4dbf6cf09d2eae09f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/tanker8.FBX using Guid(832f211b840139d4dbf6cf09d2eae09f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86bae11ace9e9f70536141fd1ee76a6f') in 0.016275 seconds
+  Import took 0.019707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/WZ PAK/building/road3.FBX
+  artifactKey: Guid(8d1136b5fdf37b84b836f2b44f25052c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/road3.FBX using Guid(8d1136b5fdf37b84b836f2b44f25052c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aab76aa9387e43519e3b673b38021c22') in 0.028382 seconds
+  Import took 0.033012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/WZ PAK/building/road1.FBX
+  artifactKey: Guid(ce176dbfcac7e5c45a61468930a65901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/road1.FBX using Guid(ce176dbfcac7e5c45a61468930a65901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '474a9b371609b9721c46aea2514d0729') in 0.023134 seconds
+  Import took 0.027519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/WZ PAK/building/fence_r1.FBX
+  artifactKey: Guid(62eaf4bd2f6ae694fbaaf16790e6ed57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/fence_r1.FBX using Guid(62eaf4bd2f6ae694fbaaf16790e6ed57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf13334385218976f467467d128ff4d3') in 0.016414 seconds
+  Import took 0.019537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/WZ PAK/building/bp2.FBX
+  artifactKey: Guid(1be3a031a5f7f8049b7d768491e115c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/bp2.FBX using Guid(1be3a031a5f7f8049b7d768491e115c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e136f0a2253f970f52cf5c88de67584a') in 0.018178 seconds
+  Import took 0.023783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/WZ PAK/building/tr2.FBX
+  artifactKey: Guid(3b4bbe2fcef895d4b82e3a9752a7a285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/tr2.FBX using Guid(3b4bbe2fcef895d4b82e3a9752a7a285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '106ed6558cf0e46685c23d63787cbf62') in 0.022374 seconds
+  Import took 0.026274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/WZ PAK/building/pm1.FBX
+  artifactKey: Guid(dea2308568516f2499e3d24fcacebdab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/pm1.FBX using Guid(dea2308568516f2499e3d24fcacebdab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1d490c2e72579348c34ad10716c11ef') in 0.013853 seconds
+  Import took 0.017808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/WZ PAK/building/b8.FBX
+  artifactKey: Guid(efcfdcf9d9247024bba037f04e7a4d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/b8.FBX using Guid(efcfdcf9d9247024bba037f04e7a4d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c57d4f7209ff41f57ee4ebc9bd825c32') in 0.020133 seconds
+  Import took 0.024148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/WZ PAK/building/road4.FBX
+  artifactKey: Guid(e0c86d595feb856439f4836e7c239dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/road4.FBX using Guid(e0c86d595feb856439f4836e7c239dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0871055babd4ab90b912578396d89e8') in 0.022323 seconds
+  Import took 0.027150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/WZ PAK/building/t2.FBX
+  artifactKey: Guid(ffaabcc023b23b446bc795b3e910ac71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/t2.FBX using Guid(ffaabcc023b23b446bc795b3e910ac71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00084d174773de22105996d8ef0f4a15') in 0.014102 seconds
+  Import took 0.018873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/WZ PAK/building/tank3.FBX
+  artifactKey: Guid(c1371d23464ee4c4d857d2e62123fec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/tank3.FBX using Guid(c1371d23464ee4c4d857d2e62123fec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e5ee7a3c0a4b21368b0575727443df8') in 0.022035 seconds
+  Import took 0.025735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/WZ PAK/building/tr3.FBX
+  artifactKey: Guid(d54beb507f7f6a6459eab5185028d9d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/tr3.FBX using Guid(d54beb507f7f6a6459eab5185028d9d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62d2c0f4de9b181098bbcf57dd9af2ea') in 0.017043 seconds
+  Import took 0.022882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/WZ PAK/building/tanker4.FBX
+  artifactKey: Guid(b7080097a1f0ac3418603a439230d7ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/tanker4.FBX using Guid(b7080097a1f0ac3418603a439230d7ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c5db0456bd68f0eec7ce3f66b32fa97') in 0.021936 seconds
+  Import took 0.028163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/WZ PAK/building/pipe6.FBX
+  artifactKey: Guid(0ed138ac7a114784fa6fa7746d233189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/pipe6.FBX using Guid(0ed138ac7a114784fa6fa7746d233189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd99c8872bdaa282b884ee6d4dde3ae37') in 0.024099 seconds
+  Import took 0.030938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/WZ PAK/building/tanker8,1.FBX
+  artifactKey: Guid(6a8b753524b7d0846905cd49b2c8f48e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/tanker8,1.FBX using Guid(6a8b753524b7d0846905cd49b2c8f48e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad5ded0c1398bc010549327e0ba2d8fc') in 0.017162 seconds
+  Import took 0.022120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/WZ PAK/building/tanker7.FBX
+  artifactKey: Guid(d343b993def9f1c4db8976809a055413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/tanker7.FBX using Guid(d343b993def9f1c4db8976809a055413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb41211e03a388728e969c33a4def2af') in 0.023559 seconds
+  Import took 0.027315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/WZ PAK/building/sb1.FBX
+  artifactKey: Guid(5aa2340e2ab1de944877b3afdee327e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/sb1.FBX using Guid(5aa2340e2ab1de944877b3afdee327e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fb5caf8114524e5d30ba5c4731c2fd5') in 0.017935 seconds
+  Import took 0.021548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/WZ PAK/building/b5.FBX
+  artifactKey: Guid(77e2786092de7884cb55862082b58c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/b5.FBX using Guid(77e2786092de7884cb55862082b58c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6a685c3caade72ed870bd83c84d8748') in 0.014982 seconds
+  Import took 0.019059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/WZ PAK/building/pipe5.FBX
+  artifactKey: Guid(af0b80bf2dd0457489bca238f17dcdec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/pipe5.FBX using Guid(af0b80bf2dd0457489bca238f17dcdec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63ac70f96132b8067a17f261b927f2d1') in 0.015690 seconds
+  Import took 0.019137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/WZ PAK/building/g2.FBX
+  artifactKey: Guid(54a53478700af5e40a0c9c8cec00ef87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/g2.FBX using Guid(54a53478700af5e40a0c9c8cec00ef87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88ed06dd5bdebceace43a919c271726f') in 0.026353 seconds
+  Import took 0.032012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/WZ PAK/building/dot3.FBX
+  artifactKey: Guid(a7c7256801b5e5447994767a6f6301e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/dot3.FBX using Guid(a7c7256801b5e5447994767a6f6301e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4d58c475e39d8677726bb8264e9ef0b') in 0.018413 seconds
+  Import took 0.024374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/WZ PAK/building/tr1.FBX
+  artifactKey: Guid(d6f089643b7c6d84689cfc4843fc067b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/tr1.FBX using Guid(d6f089643b7c6d84689cfc4843fc067b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c9a7bb39396edc4f473f4f9ad152e6f') in 0.013435 seconds
+  Import took 0.017371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000634 seconds.
+  path: Assets/WZ PAK/building/dot1.FBX
+  artifactKey: Guid(4beee8f646f416142a2fdb657c773070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/dot1.FBX using Guid(4beee8f646f416142a2fdb657c773070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0608ddbadf5b3a33dc00dbcf926f8039') in 0.019912 seconds
+  Import took 0.023721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/WZ PAK/building/pipe7.FBX
+  artifactKey: Guid(6be531cb44c6b344285de192745da898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/pipe7.FBX using Guid(6be531cb44c6b344285de192745da898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06b2bf8ab66edff17d6652370f6a5842') in 0.014130 seconds
+  Import took 0.017608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/WZ PAK/building/tanker2.FBX
+  artifactKey: Guid(56812ffca9a91634f8b1888c6eafe640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/tanker2.FBX using Guid(56812ffca9a91634f8b1888c6eafe640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75ead0a3b3140179264a94feae107c28') in 0.028212 seconds
+  Import took 0.034203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/WZ PAK/building/bp3.FBX
+  artifactKey: Guid(8fdd62d5fe58aac47afe3f0530245c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/bp3.FBX using Guid(8fdd62d5fe58aac47afe3f0530245c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f681b13239c089ec1e437bf1b2917bd') in 0.016589 seconds
+  Import took 0.021218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/WZ PAK/building/tanker6.FBX
+  artifactKey: Guid(728ed4de158b87943a3965c996fb0d84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/tanker6.FBX using Guid(728ed4de158b87943a3965c996fb0d84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9d130d26b3c74c1de4a6857350b5eb0') in 0.016189 seconds
+  Import took 0.020028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/WZ PAK/building/tanker10.FBX
+  artifactKey: Guid(38062a2cd2c9c094e856a3c67d42f179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/tanker10.FBX using Guid(38062a2cd2c9c094e856a3c67d42f179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e80ae5c482dd48d8c6d66f9da2784838') in 0.018978 seconds
+  Import took 0.028816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/WZ PAK/building/b6.FBX
+  artifactKey: Guid(a14ee9901f0c6a64394b91d0b320487d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/b6.FBX using Guid(a14ee9901f0c6a64394b91d0b320487d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '061216fa3fef36672499a08f10e1d050') in 0.018658 seconds
+  Import took 0.024805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/WZ PAK/building/dot2.FBX
+  artifactKey: Guid(cdf27287505a0924bbd00142b740c661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/dot2.FBX using Guid(cdf27287505a0924bbd00142b740c661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37bd98f30c7f29d05b999b0a19fd2a8f') in 0.013896 seconds
+  Import took 0.019360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/WZ PAK/building/tanker5.FBX
+  artifactKey: Guid(b77232352433c9245a1ed6b0e438af0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/tanker5.FBX using Guid(b77232352433c9245a1ed6b0e438af0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '191ed91882edfc37ea2885040999ef1e') in 0.016581 seconds
+  Import took 0.019932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/WZ PAK/building/tanker9.FBX
+  artifactKey: Guid(7fb3822c5e426f9458964fae1542f1f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/tanker9.FBX using Guid(7fb3822c5e426f9458964fae1542f1f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ba8ac9295d3a4ed40ccd45a201416db') in 0.022829 seconds
+  Import took 0.026618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/WZ PAK/building/t4.FBX
+  artifactKey: Guid(e3bfc35a6e95ed442a33010c7cd96cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/t4.FBX using Guid(e3bfc35a6e95ed442a33010c7cd96cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b399d18b896dd4c36045c010962a7712') in 0.018518 seconds
+  Import took 0.023964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/WZ PAK/building/fence_b1.FBX
+  artifactKey: Guid(b5a871b7b3290f74ab9e76b2e09f304e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/fence_b1.FBX using Guid(b5a871b7b3290f74ab9e76b2e09f304e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bee73d6047ca55cbecbbfa4305436a9') in 0.013923 seconds
+  Import took 0.017905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/WZ PAK/building/tr4.FBX
+  artifactKey: Guid(8540738e44a8e5a4e96fc1f18952b342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/tr4.FBX using Guid(8540738e44a8e5a4e96fc1f18952b342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da18efa143778da94736c15dcad7642e') in 0.017472 seconds
+  Import took 0.021656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/WZ PAK/building/t1.FBX
+  artifactKey: Guid(93fcf4a581765d248948775cf69463b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/t1.FBX using Guid(93fcf4a581765d248948775cf69463b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8de32bda0e592acab95b5633c081a915') in 0.022171 seconds
+  Import took 0.026696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/WZ PAK/building/pipe14.FBX
+  artifactKey: Guid(fcb505a78ea78014c95e48b4060fd863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/pipe14.FBX using Guid(fcb505a78ea78014c95e48b4060fd863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d4272a45e2d070fd27f04a33e3a057f') in 0.017476 seconds
+  Import took 0.021290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/WZ PAK/building/sb3.FBX
+  artifactKey: Guid(7db8f1903d85ae0469fcb24679befe52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/sb3.FBX using Guid(7db8f1903d85ae0469fcb24679befe52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4caf969265f18f5a7ac87369f91ee1ff') in 0.018024 seconds
+  Import took 0.023203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/WZ PAK/building/tanker3.FBX
+  artifactKey: Guid(5a50e2e9091454f4fbf23c66f4b16d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/tanker3.FBX using Guid(5a50e2e9091454f4fbf23c66f4b16d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5d82aca791a528e61a40868130a82b1') in 0.014956 seconds
+  Import took 0.018493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/WZ PAK/building/fence_v2.FBX
+  artifactKey: Guid(9327c94dd18130748931a54d8e49a5a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/fence_v2.FBX using Guid(9327c94dd18130748931a54d8e49a5a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fe59157f2c77e8d68f7592b0656e3ba') in 0.020950 seconds
+  Import took 0.027102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/WZ PAK/building/bb8.FBX
+  artifactKey: Guid(f17fd7f10d7f22f4180e5e8e0e8db5b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/bb8.FBX using Guid(f17fd7f10d7f22f4180e5e8e0e8db5b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b60051be7e178aefd99dfe4229e5f7e') in 0.019118 seconds
+  Import took 0.024862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/WZ PAK/building/pipe11.FBX
+  artifactKey: Guid(97787e0e503904045933701c4b8f6250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/pipe11.FBX using Guid(97787e0e503904045933701c4b8f6250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e31f2cdbfdf30cdeb02529f69ca3519') in 0.017426 seconds
+  Import took 0.022734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/WZ PAK/building/fence_b2.FBX
+  artifactKey: Guid(0077d3e6f586e9d468e75f6c5f1cf298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/fence_b2.FBX using Guid(0077d3e6f586e9d468e75f6c5f1cf298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd37eed696f3924755611004e019ebc7a') in 0.016948 seconds
+  Import took 0.022284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/WZ PAK/building/pipe10.FBX
+  artifactKey: Guid(d45856ccdce983c4a9096c14fed6a550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/pipe10.FBX using Guid(d45856ccdce983c4a9096c14fed6a550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b19e92751a757a5fa6f315cfac9de05a') in 0.017952 seconds
+  Import took 0.021965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/WZ PAK/building/pipe2.FBX
+  artifactKey: Guid(eb6f9ba53e10b2d408bdc9df07ca0b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/pipe2.FBX using Guid(eb6f9ba53e10b2d408bdc9df07ca0b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f06f185b94e32bbadefb07e690b956e') in 0.018626 seconds
+  Import took 0.024912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/WZ PAK/building/t3.FBX
+  artifactKey: Guid(5b1b10a92c21b074bbb15ba31c43e525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/t3.FBX using Guid(5b1b10a92c21b074bbb15ba31c43e525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2853f3d2577efccabcebd6a1d3a16c8f') in 0.016711 seconds
+  Import took 0.021150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/WZ PAK/building/b7.FBX
+  artifactKey: Guid(47693341576535f4eb70fb98f8033aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/b7.FBX using Guid(47693341576535f4eb70fb98f8033aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2edeee7053b1a7d4637c8140e6bc6608') in 0.029303 seconds
+  Import took 0.035046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/WZ PAK/building/dot4.FBX
+  artifactKey: Guid(b969b62f97816e449889e6f2091d5348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/dot4.FBX using Guid(b969b62f97816e449889e6f2091d5348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6df403bd172151d427238e9c3a84456e') in 0.019453 seconds
+  Import took 0.026191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/WZ PAK/building/tank1.FBX
+  artifactKey: Guid(5a9a0af4408b9ab4895c3694c8e35c28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/tank1.FBX using Guid(5a9a0af4408b9ab4895c3694c8e35c28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c09693b8c0f8f09860cc6543c33edd6') in 0.023559 seconds
+  Import took 0.029831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/WZ PAK/building/pipe13.FBX
+  artifactKey: Guid(3c08a38920675ab45924802d4bc5106d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/pipe13.FBX using Guid(3c08a38920675ab45924802d4bc5106d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef20f4db11290afe090bf01585079209') in 0.014684 seconds
+  Import took 0.019728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/WZ PAK/building/tank4.FBX
+  artifactKey: Guid(402087fcdde00f04d9fa53394fce8b07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/tank4.FBX using Guid(402087fcdde00f04d9fa53394fce8b07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fc030aa37e2e30a179d522524d17298') in 0.019654 seconds
+  Import took 0.024776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/WZ PAK/building/pipe8.FBX
+  artifactKey: Guid(30f8c8ad8369a29468ca74ae669fc569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/pipe8.FBX using Guid(30f8c8ad8369a29468ca74ae669fc569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1719e05b25611e3c932ace70fc79130a') in 0.016301 seconds
+  Import took 0.020657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001045 seconds.
+  path: Assets/WZ PAK/building/pipe3.FBX
+  artifactKey: Guid(2014bfccb7591d24f8aadeb8a991925f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/pipe3.FBX using Guid(2014bfccb7591d24f8aadeb8a991925f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'add4724aa347bd8c50c7f38fa731f0e8') in 0.016910 seconds
+  Import took 0.022459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/WZ PAK/building/fence_v1.FBX
+  artifactKey: Guid(1809157f24a467f49bef11b39716e709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/fence_v1.FBX using Guid(1809157f24a467f49bef11b39716e709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41d8d01b00c92ec4377501e2b04b3418') in 0.014726 seconds
+  Import took 0.018022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/WZ PAK/building/pipe9.FBX
+  artifactKey: Guid(f8721c1ca3af0a541bc9a5f80b40b691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/pipe9.FBX using Guid(f8721c1ca3af0a541bc9a5f80b40b691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aebe09a6143612d4ee63bad607eda31e') in 0.019741 seconds
+  Import took 0.024372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/WZ PAK/building/road2.FBX
+  artifactKey: Guid(6f9078ed80c23b34fb155dc0f82681d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/road2.FBX using Guid(6f9078ed80c23b34fb155dc0f82681d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3977c0c908f2c8c14db402f12fdb49c') in 0.025682 seconds
+  Import took 0.030427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/WZ PAK/building/tank2.FBX
+  artifactKey: Guid(db80e480ee1733d4f9528a87c627f206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/tank2.FBX using Guid(db80e480ee1733d4f9528a87c627f206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af08be69d36be441c442c59c68552c76') in 0.020422 seconds
+  Import took 0.024476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/WZ PAK/building/b3.FBX
+  artifactKey: Guid(6a1a639220687694daddb25c169f98be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/b3.FBX using Guid(6a1a639220687694daddb25c169f98be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c79d9336e6580ca1a21c35945684fe42') in 0.018370 seconds
+  Import took 0.022538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/WZ PAK/building/pipe1.FBX
+  artifactKey: Guid(f425d2d1c7db71b469e5c2a87a6c8ef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/pipe1.FBX using Guid(f425d2d1c7db71b469e5c2a87a6c8ef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42a41a67500dc0407f96e75cc5996b64') in 0.025133 seconds
+  Import took 0.028599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/WZ PAK/building/fence_rv2.FBX
+  artifactKey: Guid(9c9c5eaabe92aa947a78da72affa133c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/fence_rv2.FBX using Guid(9c9c5eaabe92aa947a78da72affa133c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6de2257a3e374fe9a9340c682a19f58') in 0.026729 seconds
+  Import took 0.032876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000658 seconds.
+  path: Assets/WZ PAK/building/tanker1.FBX
+  artifactKey: Guid(dd3973d36f2a45a43bcdf4f16e6fe5a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/tanker1.FBX using Guid(dd3973d36f2a45a43bcdf4f16e6fe5a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '349dad9aa6a8141b5a2a7a353d369d0d') in 0.018325 seconds
+  Import took 0.023502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/WZ PAK/building/fence_rv1.FBX
+  artifactKey: Guid(9bdc6c5cf798d454ebea7bd41237873c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/building/fence_rv1.FBX using Guid(9bdc6c5cf798d454ebea7bd41237873c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73dddc2033d61a0dd9581cf10f231fa5') in 0.020088 seconds
+  Import took 0.024656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.619313 seconds.
+  path: Assets/WZ PAK/vehicles
+  artifactKey: Guid(42e186b036a02864785ce67f8a288d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles using Guid(42e186b036a02864785ce67f8a288d9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6698aa470d285c6b24aafa703ec2a653') in 0.006416 seconds
+  Import took 0.011081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.880635 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable
+  artifactKey: Guid(e00a082263024ea408e4cad0f9dbacaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable using Guid(e00a082263024ea408e4cad0f9dbacaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '593b840540c5bd8aff55f3764dbd53b3') in 0.006710 seconds
+  Import took 0.010852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.094027 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/anten.FBX
+  artifactKey: Guid(ccd876f8165443f4a92292dfd935ac6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/anten.FBX using Guid(ccd876f8165443f4a92292dfd935ac6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bef842ddae3cb6b032af0507d944cc28') in 0.022370 seconds
+  Import took 0.027027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/plaz_s3.FBX
+  artifactKey: Guid(19b04e6b210b6234eb4b862a08818870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/plaz_s3.FBX using Guid(19b04e6b210b6234eb4b862a08818870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f17e3ab2842897d5e6a85ac4f140c655') in 0.015096 seconds
+  Import took 0.019203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/ram.FBX
+  artifactKey: Guid(a13a2fdfd0a4beb4e971861226c4a89b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/ram.FBX using Guid(a13a2fdfd0a4beb4e971861226c4a89b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df63184178058a5c9d6c3fa41a5c1b9c') in 0.022073 seconds
+  Import took 0.026135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/far_s2.FBX
+  artifactKey: Guid(0fd5df22b11b77b4d90044c870551e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/far_s2.FBX using Guid(0fd5df22b11b77b4d90044c870551e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fc28bbf2517dcefc84ff97657764f48') in 0.021610 seconds
+  Import took 0.025609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/raket_s2.FBX
+  artifactKey: Guid(4205f7a220e0bd741bdd73813abee75d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/raket_s2.FBX using Guid(4205f7a220e0bd741bdd73813abee75d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b3555dd0b6de300cb1ed2b50f61f1d6') in 0.017909 seconds
+  Import took 0.023007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/box_m2.FBX
+  artifactKey: Guid(36dad092fc95d204eae15336a53e8c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/box_m2.FBX using Guid(36dad092fc95d204eae15336a53e8c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7217e78387ec722c5d2be89d3ebc9752') in 0.019578 seconds
+  Import took 0.024310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/box_s2.FBX
+  artifactKey: Guid(9d6d4a39508808545a97654d9c53316d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/box_s2.FBX using Guid(9d6d4a39508808545a97654d9c53316d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0759ac3681ba1b2d50aad8dd0dd5b983') in 0.017083 seconds
+  Import took 0.022184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/far2.FBX
+  artifactKey: Guid(a69f45fdb5170e945a9b9eac5a0ff148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/far2.FBX using Guid(a69f45fdb5170e945a9b9eac5a0ff148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a560f83b8d9575665c8a9f2c3780a595') in 0.031456 seconds
+  Import took 0.037110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/plaz_s1.FBX
+  artifactKey: Guid(3bb2f6f63bd347b49a265b91f941499d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/plaz_s1.FBX using Guid(3bb2f6f63bd347b49a265b91f941499d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9af4b48fe689da07c3964853ce9bb0ff') in 0.025754 seconds
+  Import took 0.031049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/far_s1.FBX
+  artifactKey: Guid(155d1b6e8fb451b4e80e7f16dd9da526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/far_s1.FBX using Guid(155d1b6e8fb451b4e80e7f16dd9da526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8244a4daff428406a0de23bf49d39dbb') in 0.016649 seconds
+  Import took 0.021197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/box_s4.FBX
+  artifactKey: Guid(9eefc4c3d5957af4783f20ec804a9704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/box_s4.FBX using Guid(9eefc4c3d5957af4783f20ec804a9704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f3b9eac4cfc5a56fc24dc07367e5d4a') in 0.016045 seconds
+  Import took 0.020124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/raket_s1.FBX
+  artifactKey: Guid(0954335d47f461a498c6437f207d3877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/raket_s1.FBX using Guid(0954335d47f461a498c6437f207d3877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7068ea59d863c2315b065b9a4a8a3113') in 0.020501 seconds
+  Import took 0.026807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/far1.FBX
+  artifactKey: Guid(418f6e08f56bdd4409d9b8b803c433f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/far1.FBX using Guid(418f6e08f56bdd4409d9b8b803c433f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f63160ae065e0d4e1ec97763e8c3d09') in 0.027518 seconds
+  Import took 0.032481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/plaz_s2.FBX
+  artifactKey: Guid(602e702fe827d404db7d62421b585891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/plaz_s2.FBX using Guid(602e702fe827d404db7d62421b585891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '976b3b3e453e91da1c27bf85835ff0ad') in 0.015276 seconds
+  Import took 0.019292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/raket_b4.FBX
+  artifactKey: Guid(cffdb1ec84345394abadcf6aca092417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/raket_b4.FBX using Guid(cffdb1ec84345394abadcf6aca092417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f436fad9ab8934ac98e6f92380871da3') in 0.017986 seconds
+  Import took 0.022302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/rz3.FBX
+  artifactKey: Guid(272dd6c0a4fc10c4396b5f7ad8db2576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/rz3.FBX using Guid(272dd6c0a4fc10c4396b5f7ad8db2576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8201e0ec6f3f9ff77108d2a95b4f1ef') in 0.020151 seconds
+  Import took 0.026063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/rz1.FBX
+  artifactKey: Guid(8f66c7110ed75244eab71716ef92ffe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/rz1.FBX using Guid(8f66c7110ed75244eab71716ef92ffe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a15345efe29c0cea7abd1d5a9122b824') in 0.016711 seconds
+  Import took 0.021144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/ram4.FBX
+  artifactKey: Guid(799cf20a005f83a4bb7327824d2e0dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/ram4.FBX using Guid(799cf20a005f83a4bb7327824d2e0dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2dbb999ab26123d8e69eb1718b21687') in 0.021502 seconds
+  Import took 0.025710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/ram2.FBX
+  artifactKey: Guid(760494a41194ee64d96dc49f78bd10bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/ram2.FBX using Guid(760494a41194ee64d96dc49f78bd10bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4ceeac0c471c6c45a49542c7b8c035b') in 0.016046 seconds
+  Import took 0.021448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/raket_b1.FBX
+  artifactKey: Guid(16945326a378e034b82fc787ec885652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/raket_b1.FBX using Guid(16945326a378e034b82fc787ec885652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f4c684d1835feb63926f339122de108') in 0.017219 seconds
+  Import took 0.022225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/box_m1.FBX
+  artifactKey: Guid(c5f7fe72406a83b42ab65d5866891f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/box_m1.FBX using Guid(c5f7fe72406a83b42ab65d5866891f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca1479fac6a46d00c0dc6e7279faf56f') in 0.014390 seconds
+  Import took 0.017903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/plaz_b4.FBX
+  artifactKey: Guid(ab4a31c09d6dda14c9472f6c7f261b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/plaz_b4.FBX using Guid(ab4a31c09d6dda14c9472f6c7f261b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb53112a24c66c96c4594a660e5c6fe5') in 0.020736 seconds
+  Import took 0.025849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/raket_s4.FBX
+  artifactKey: Guid(6b90f885369e0f94199f5f5063c91fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/raket_s4.FBX using Guid(6b90f885369e0f94199f5f5063c91fda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d087e5a3996b9ce889f25de8dd1594f') in 0.018755 seconds
+  Import took 0.023508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/plaz_b2.FBX
+  artifactKey: Guid(ea7f3aea28641594e888d37e21c169d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/plaz_b2.FBX using Guid(ea7f3aea28641594e888d37e21c169d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2ea8d016228575ee89607e0306c8fe8') in 0.019033 seconds
+  Import took 0.024596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/plaz_s4.FBX
+  artifactKey: Guid(36dadab1de92afa46add4b37c4455cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/plaz_s4.FBX using Guid(36dadab1de92afa46add4b37c4455cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82f19ec320995cb630eaba7a8fafc548') in 0.021716 seconds
+  Import took 0.028042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/plaz_b1.FBX
+  artifactKey: Guid(c267a66eee9c7c1479ca823fa3a1260b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/plaz_b1.FBX using Guid(c267a66eee9c7c1479ca823fa3a1260b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6ef1448ebde7c1c76a879db4b3bc851') in 0.014009 seconds
+  Import took 0.018295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/tucha1.FBX
+  artifactKey: Guid(4995fd6855101d04c98a4dd848894870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/tucha1.FBX using Guid(4995fd6855101d04c98a4dd848894870) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0957e66d7d6cc86c4a15cf0caaf8e63') in 0.017719 seconds
+  Import took 0.022159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/box_m3.FBX
+  artifactKey: Guid(902f8481a65c1594abd625111d24d31f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/box_m3.FBX using Guid(902f8481a65c1594abd625111d24d31f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86560ac74d206d7cf280bcf10ccf841b') in 0.019900 seconds
+  Import took 0.025716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/tucha2.FBX
+  artifactKey: Guid(9ad1ddd65389ca349bbf5b885c5671a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/tucha2.FBX using Guid(9ad1ddd65389ca349bbf5b885c5671a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '540e2ebaeaa20e0d3c1597ee34d31f87') in 0.015380 seconds
+  Import took 0.020398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/plaz_b3.FBX
+  artifactKey: Guid(00fc8fca9e3b8864a913c7273ea9b51f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/plaz_b3.FBX using Guid(00fc8fca9e3b8864a913c7273ea9b51f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b01e3a19e4e1c700acd95ab51eb747f') in 0.017459 seconds
+  Import took 0.021669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/rz2.FBX
+  artifactKey: Guid(2ab6b18c87747084dbd845e2c5baf815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/rz2.FBX using Guid(2ab6b18c87747084dbd845e2c5baf815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b10f5c89d2689d932696d9dfb929cff8') in 0.016476 seconds
+  Import took 0.022143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/ram5.FBX
+  artifactKey: Guid(8ce015aee376b7944bee0da4d771d9d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/ram5.FBX using Guid(8ce015aee376b7944bee0da4d771d9d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b2251a7388081e5bc5059620ba42685') in 0.018896 seconds
+  Import took 0.024042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/box_s1.FBX
+  artifactKey: Guid(876a602088930cc479b7eda08320dba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/box_s1.FBX using Guid(876a602088930cc479b7eda08320dba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6461034417d8ab596fdf69aaaedcdbb') in 0.019530 seconds
+  Import took 0.023809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000448 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/box_s3.FBX
+  artifactKey: Guid(30452f5fec1c0b845a65476200f746ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/box_s3.FBX using Guid(30452f5fec1c0b845a65476200f746ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99c2b7350d324c453e6581ec04460c38') in 0.022013 seconds
+  Import took 0.026622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/far3.FBX
+  artifactKey: Guid(945cdce8c74cc3341b4cc7f44b99b8fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/far3.FBX using Guid(945cdce8c74cc3341b4cc7f44b99b8fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c264f635359a81fb45d7c23fcb4c937') in 0.013513 seconds
+  Import took 0.016996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/raket_b2.FBX
+  artifactKey: Guid(bfd77c7c3eb9f204cac3be6b513c15d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/raket_b2.FBX using Guid(bfd77c7c3eb9f204cac3be6b513c15d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae29cd43b6a13742096200191e2f0a11') in 0.014228 seconds
+  Import took 0.018255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/ram7.FBX
+  artifactKey: Guid(7cd48b583fbf3d54d95f7f6faa85bc01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/ram7.FBX using Guid(7cd48b583fbf3d54d95f7f6faa85bc01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c64e27155483d924ac0dfe195093ff54') in 0.019798 seconds
+  Import took 0.024053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/raket_b3.FBX
+  artifactKey: Guid(a6625c0ad1c81f1438af594bdc0316e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/raket_b3.FBX using Guid(a6625c0ad1c81f1438af594bdc0316e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b527ffb0ce862fca605777084b0ee607') in 0.015713 seconds
+  Import took 0.020221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/box_m4.FBX
+  artifactKey: Guid(bf24016e84afbdb4092015b2c7105499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/box_m4.FBX using Guid(bf24016e84afbdb4092015b2c7105499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '100907420d9375801c8760f4767b29df') in 0.017085 seconds
+  Import took 0.021104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/raket_s3.FBX
+  artifactKey: Guid(f3b6b911967b42a409b450eedc50d218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/raket_s3.FBX using Guid(f3b6b911967b42a409b450eedc50d218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aa559ae4ad8071a936824fb0753b1ed') in 0.024370 seconds
+  Import took 0.030225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/ram3.FBX
+  artifactKey: Guid(48fdc4f6132010b4598b89cc8c33d7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/ram3.FBX using Guid(48fdc4f6132010b4598b89cc8c33d7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3ad8af0f4a7e7493de298e6009683e7') in 0.018386 seconds
+  Import took 0.023783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/tucha3.FBX
+  artifactKey: Guid(9a69ebd756dcd9543bbf21a16e360352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/tucha3.FBX using Guid(9a69ebd756dcd9543bbf21a16e360352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a18d250a3c3c796a6a0f5c624a8ac75') in 0.015114 seconds
+  Import took 0.019070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/ram1.FBX
+  artifactKey: Guid(b892726b3349a174fbba01fcda321a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/ram1.FBX using Guid(b892726b3349a174fbba01fcda321a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '138a03d64bdb5a94073dd83dfbdd2096') in 0.019627 seconds
+  Import took 0.023757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/far_s3.FBX
+  artifactKey: Guid(17f6e9b10d19f4f449f0f9d5d76ac2a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/far_s3.FBX using Guid(17f6e9b10d19f4f449f0f9d5d76ac2a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b388fea3eb03a737468bcbe177fd45b8') in 0.023558 seconds
+  Import took 0.029039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/tucha4.FBX
+  artifactKey: Guid(921517dfc9c24244f900a0514b44d952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/tucha4.FBX using Guid(921517dfc9c24244f900a0514b44d952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '658286522b1b1f499d1d367734b0f2fe') in 0.014824 seconds
+  Import took 0.018191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/WZ PAK/vehicles/vehicles customizable/ram6.FBX
+  artifactKey: Guid(54c206bed30792645821e0f34529df64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/vehicles customizable/ram6.FBX using Guid(54c206bed30792645821e0f34529df64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20139d176feaed5a16b15b6a26bcf8c7') in 0.017732 seconds
+  Import took 0.023737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.574828 seconds.
+  path: Assets/Scripts/Sesion12
+  artifactKey: Guid(2eb7715aa202db54d88e3f3ca1f8d8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Sesion12 using Guid(2eb7715aa202db54d88e3f3ca1f8d8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db9b582a297b367e225441d79c3e0d07') in 0.008256 seconds
+  Import took 0.014319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007559 seconds.
+  path: Assets/Scripts/Sesion12
+  artifactKey: Guid(2eb7715aa202db54d88e3f3ca1f8d8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Sesion12 using Guid(2eb7715aa202db54d88e3f3ca1f8d8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db9b582a297b367e225441d79c3e0d07') in 0.004906 seconds
+  Import took 0.009566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.128212 seconds.
+  path: Assets/Scripts/Sesion12/GameManager.cs
+  artifactKey: Guid(14966f5dfbe2e7549bd43b5008cc78fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Sesion12/GameManager.cs using Guid(14966f5dfbe2e7549bd43b5008cc78fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cfdfe4640e322215b46673fbcf5efc5') in 0.135017 seconds
+  Import took 0.139935 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005538 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.18 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 12.492 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.3 MB.
+System memory in use after: 99.2 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2549.
+Total: 3.671000 ms (FindLiveObjects: 0.351500 ms CreateObjectMapping: 0.149400 ms MarkObjects: 3.005500 ms  DeleteObjects: 0.163200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003759 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.348 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.3 MB.
+System memory in use after: 99.3 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2553.
+Total: 2.586300 ms (FindLiveObjects: 0.206900 ms CreateObjectMapping: 0.082100 ms MarkObjects: 2.168600 ms  DeleteObjects: 0.127800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 200.703620 seconds.
+  path: Assets/Scripts/Sesion12/GameManager.cs
+  artifactKey: Guid(14966f5dfbe2e7549bd43b5008cc78fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Sesion12/GameManager.cs using Guid(14966f5dfbe2e7549bd43b5008cc78fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e050fedf0f373d67f7c4327cd765ef1a') in 0.010443 seconds
+  Import took 0.014165 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007542 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.288 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.11 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2090 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.3 MB.
+System memory in use after: 99.3 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2557.
+Total: 2.518200 ms (FindLiveObjects: 0.331100 ms CreateObjectMapping: 0.194900 ms MarkObjects: 1.860700 ms  DeleteObjects: 0.130600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.344845 seconds.
+  path: Assets/Scripts/Sesion12/MapManager.cs
+  artifactKey: Guid(21fb50b5aba1c824195c725ae7d6af1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Sesion12/MapManager.cs using Guid(21fb50b5aba1c824195c725ae7d6af1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '458e55ee48be5122f184e01730c61e87') in 0.019287 seconds
+  Import took 0.025676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007469 seconds.
+  path: Assets/Scripts/Sesion12/MapManager.cs
+  artifactKey: Guid(21fb50b5aba1c824195c725ae7d6af1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Sesion12/MapManager.cs using Guid(21fb50b5aba1c824195c725ae7d6af1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '458e55ee48be5122f184e01730c61e87') in 0.002373 seconds
+  Import took 0.007462 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006420 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.581 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2091 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.4 MB.
+System memory in use after: 99.3 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2562.
+Total: 2.681400 ms (FindLiveObjects: 0.273100 ms CreateObjectMapping: 0.117200 ms MarkObjects: 2.169300 ms  DeleteObjects: 0.120400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003751 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.335 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2091 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.4 MB.
+System memory in use after: 99.4 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2566.
+Total: 2.187500 ms (FindLiveObjects: 0.197000 ms CreateObjectMapping: 0.075000 ms MarkObjects: 1.784100 ms  DeleteObjects: 0.130400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.645584 seconds.
+  path: Assets/Scripts/Sesion12/MapManager.cs
+  artifactKey: Guid(21fb50b5aba1c824195c725ae7d6af1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Sesion12/MapManager.cs using Guid(21fb50b5aba1c824195c725ae7d6af1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46ab7e6295f07e05adf0b073900caf86') in 0.004910 seconds
+  Import took 0.008273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.335484 seconds.
+  path: Assets/Prefab/TowerDefence
+  artifactKey: Guid(0998076083638e3428bf5a94d1508cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence using Guid(0998076083638e3428bf5a94d1508cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1576fd07a20cf9875075f675baf08745') in 0.007015 seconds
+  Import took 0.011215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005292 seconds.
+  path: Assets/Prefab/TowerDefence
+  artifactKey: Guid(0998076083638e3428bf5a94d1508cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence using Guid(0998076083638e3428bf5a94d1508cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1576fd07a20cf9875075f675baf08745') in 0.002017 seconds
+  Import took 0.006683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.069655 seconds.
+  path: Assets/Prefab/TowerDefence/TowerA.prefab
+  artifactKey: Guid(7a3ea68c0b258544aa8b1ed25fd23249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/TowerA.prefab using Guid(7a3ea68c0b258544aa8b1ed25fd23249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91fc3c5a7ba6d04e3d26c3fe7bfe1aa0') in 0.077245 seconds
+  Import took 0.081605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006922 seconds.
+  path: Assets/Prefab/TowerDefence/TowerA.prefab
+  artifactKey: Guid(7a3ea68c0b258544aa8b1ed25fd23249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/TowerA.prefab using Guid(7a3ea68c0b258544aa8b1ed25fd23249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91fc3c5a7ba6d04e3d26c3fe7bfe1aa0') in 0.023950 seconds
+  Import took 0.031056 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003852 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.281 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2091 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.4 MB.
+System memory in use after: 99.4 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2571.
+Total: 2.633800 ms (FindLiveObjects: 0.300100 ms CreateObjectMapping: 0.129900 ms MarkObjects: 2.070300 ms  DeleteObjects: 0.132600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 449.129846 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95df672b4aaba54310d34c83eef51bb8') in 0.024217 seconds
+  Import took 0.029750 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004066 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.224 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2091 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.4 MB.
+System memory in use after: 99.4 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2575.
+Total: 3.386300 ms (FindLiveObjects: 0.283800 ms CreateObjectMapping: 0.077000 ms MarkObjects: 2.904700 ms  DeleteObjects: 0.119500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003839 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.388 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.03 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2091 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.4 MB.
+System memory in use after: 99.4 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2579.
+Total: 4.207000 ms (FindLiveObjects: 0.536500 ms CreateObjectMapping: 0.180300 ms MarkObjects: 3.141100 ms  DeleteObjects: 0.347000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 128.497238 seconds.
+  path: Assets/Prefab/TowerDefence/TowerA.prefab
+  artifactKey: Guid(7a3ea68c0b258544aa8b1ed25fd23249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/TowerA.prefab using Guid(7a3ea68c0b258544aa8b1ed25fd23249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17117277a469f115c750d07919aba6ab') in 0.067001 seconds
+  Import took 0.072368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.066320 seconds.
+  path: Assets/Prefab/TowerDefence/TowerA.prefab
+  artifactKey: Guid(7a3ea68c0b258544aa8b1ed25fd23249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/TowerA.prefab using Guid(7a3ea68c0b258544aa8b1ed25fd23249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be32c17c90a1ebb7e7adb56fe4f5761e') in 0.005334 seconds
+  Import took 0.009997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.117792 seconds.
+  path: Assets/Prefab/TowerDefence/TowerA.prefab
+  artifactKey: Guid(7a3ea68c0b258544aa8b1ed25fd23249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/TowerA.prefab using Guid(7a3ea68c0b258544aa8b1ed25fd23249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '047ed0824a64e56c09dfb3bdc8dd7dbb') in 0.008481 seconds
+  Import took 0.013694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.219424 seconds.
+  path: Assets/Prefab/TowerDefence/TowerA.prefab
+  artifactKey: Guid(7a3ea68c0b258544aa8b1ed25fd23249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/TowerA.prefab using Guid(7a3ea68c0b258544aa8b1ed25fd23249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8544dc11f200a5201e9a1ce9ab57f4a') in 0.004177 seconds
+  Import took 0.008147 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003931 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.360 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2091 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.4 MB.
+System memory in use after: 99.4 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2584.
+Total: 3.520000 ms (FindLiveObjects: 0.335100 ms CreateObjectMapping: 0.193400 ms MarkObjects: 2.817300 ms  DeleteObjects: 0.171900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003696 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.127 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2091 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.5 MB.
+System memory in use after: 99.4 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2588.
+Total: 3.365800 ms (FindLiveObjects: 0.320800 ms CreateObjectMapping: 0.077600 ms MarkObjects: 2.847200 ms  DeleteObjects: 0.119300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 130.718251 seconds.
+  path: Assets/WZ PAK/vehicles/armored carrier
+  artifactKey: Guid(d2a41538fffcb064caaa9f8b530cdada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/armored carrier using Guid(d2a41538fffcb064caaa9f8b530cdada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd15acf0b01e710ab116599cb126c4c0e') in 0.012430 seconds
+  Import took 0.016489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.059988 seconds.
+  path: Assets/WZ PAK/vehicles/armored carrier/apc_b1.FBX
+  artifactKey: Guid(ce2fb420476fa144cacca51805b9def6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/armored carrier/apc_b1.FBX using Guid(ce2fb420476fa144cacca51805b9def6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9af17df87dafd6b92932e5a1d4ef02d0') in 0.160440 seconds
+  Import took 0.164440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/WZ PAK/vehicles/armored carrier/apc_roket2.FBX
+  artifactKey: Guid(a3c3a1e8d7c746249adbf78d25fd4f3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/armored carrier/apc_roket2.FBX using Guid(a3c3a1e8d7c746249adbf78d25fd4f3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec8b2a8efc6a9efcb5a11dcde8278b31') in 0.114925 seconds
+  Import took 0.118912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/WZ PAK/vehicles/armored carrier/apc_roket4.FBX
+  artifactKey: Guid(8357acf884f9e494ab5b83b0fe0b67cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/armored carrier/apc_roket4.FBX using Guid(8357acf884f9e494ab5b83b0fe0b67cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f877ec5aa57eed18edc7619b0ee4f60') in 0.125324 seconds
+  Import took 0.129719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/WZ PAK/vehicles/armored carrier/apc_plaz1.FBX
+  artifactKey: Guid(82f3bea82c0100a468fd00ba9138fdd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/armored carrier/apc_plaz1.FBX using Guid(82f3bea82c0100a468fd00ba9138fdd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eea7246b57c3c3761611edf79077b15') in 0.126112 seconds
+  Import took 0.130810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/WZ PAK/vehicles/armored carrier/apc_roket3.FBX
+  artifactKey: Guid(aff07aac2c70dff4eb50849efb2b775b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/armored carrier/apc_roket3.FBX using Guid(aff07aac2c70dff4eb50849efb2b775b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe6b754c9ea3dfc9ef615561b32aedad') in 0.107963 seconds
+  Import took 0.114141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/WZ PAK/vehicles/armored carrier/apc_rz3.FBX
+  artifactKey: Guid(d98132149de105348bca927114e56d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/armored carrier/apc_rz3.FBX using Guid(d98132149de105348bca927114e56d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a21bd5d1d1f0d934cd921cee6c979573') in 0.133429 seconds
+  Import took 0.138117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/WZ PAK/vehicles/armored carrier/apc_rz4.FBX
+  artifactKey: Guid(06be8fb48f477ec4ba861fb37af5fdde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/armored carrier/apc_rz4.FBX using Guid(06be8fb48f477ec4ba861fb37af5fdde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef342229acc465f293e39eb9cdc12766') in 0.128874 seconds
+  Import took 0.133641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/WZ PAK/vehicles/armored carrier/apc_plaz4.FBX
+  artifactKey: Guid(dc86868569aeb174fb06c09ddd1ddd6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/armored carrier/apc_plaz4.FBX using Guid(dc86868569aeb174fb06c09ddd1ddd6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '142e84ba334b14fc289d982225bdce38') in 0.113420 seconds
+  Import took 0.119809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/WZ PAK/vehicles/armored carrier/apc_b4.FBX
+  artifactKey: Guid(ab890e82db940094693887a88663366c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/armored carrier/apc_b4.FBX using Guid(ab890e82db940094693887a88663366c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd19c8380e91db41f85698f2006facca1') in 0.096826 seconds
+  Import took 0.100721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/WZ PAK/vehicles/armored carrier/apc_rz1.FBX
+  artifactKey: Guid(2faa68d1db8c62b4ca5670ae889ea7ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/armored carrier/apc_rz1.FBX using Guid(2faa68d1db8c62b4ca5670ae889ea7ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '282141838aa960115090dadd03264853') in 0.118197 seconds
+  Import took 0.122709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/WZ PAK/vehicles/armored carrier/apc_plaz2.FBX
+  artifactKey: Guid(142c63e4a29a6f34387febd07f73fe7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/armored carrier/apc_plaz2.FBX using Guid(142c63e4a29a6f34387febd07f73fe7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50f92f2ac6bca907481c34931b9583f2') in 0.115140 seconds
+  Import took 0.119727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/WZ PAK/vehicles/armored carrier/apc_rz2.FBX
+  artifactKey: Guid(4974a1fb7a344bd489f66ba33a26c6df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/armored carrier/apc_rz2.FBX using Guid(4974a1fb7a344bd489f66ba33a26c6df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7716795edb56c1aa9f7cd442b5ec36e3') in 0.117129 seconds
+  Import took 0.120827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/WZ PAK/vehicles/armored carrier/apc_roket1.FBX
+  artifactKey: Guid(504be63daabff774facff9bd01ea203c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/armored carrier/apc_roket1.FBX using Guid(504be63daabff774facff9bd01ea203c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44ecd2347debf320d2c988b8234e27db') in 0.121793 seconds
+  Import took 0.125998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/WZ PAK/vehicles/armored carrier/apc_plaz3.FBX
+  artifactKey: Guid(651e12b58385da441a492e2eb995ca00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/armored carrier/apc_plaz3.FBX using Guid(651e12b58385da441a492e2eb995ca00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '121ff98b901a24b9dfe710ce31dc45ad') in 0.108812 seconds
+  Import took 0.113367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/WZ PAK/vehicles/armored carrier/apc_b3.FBX
+  artifactKey: Guid(a8ad35f835442484fa6505779b699ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/armored carrier/apc_b3.FBX using Guid(a8ad35f835442484fa6505779b699ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5a57b08fb00521004a4a7290a5b34b0') in 0.093198 seconds
+  Import took 0.097448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/WZ PAK/vehicles/armored carrier/apc_b2.FBX
+  artifactKey: Guid(a0dcb007f97f4e745bfdf2dd9cbac4a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WZ PAK/vehicles/armored carrier/apc_b2.FBX using Guid(a0dcb007f97f4e745bfdf2dd9cbac4a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ab64baf0c7f792e9cb0505e05a2ef71') in 0.097682 seconds
+  Import took 0.103556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.641854 seconds.
+  path: Assets/Prefab/TowerDefence/TowerA.prefab
+  artifactKey: Guid(7a3ea68c0b258544aa8b1ed25fd23249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/TowerA.prefab using Guid(7a3ea68c0b258544aa8b1ed25fd23249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40e9633cbffdd43d93c917eb654f9848') in 0.013330 seconds
+  Import took 0.017891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.706976 seconds.
+  path: Assets/Scripts/Sesion12/EnemyDefenceBase.cs
+  artifactKey: Guid(bed1ca8e2a505ae4e955302786737b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Sesion12/EnemyDefenceBase.cs using Guid(bed1ca8e2a505ae4e955302786737b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1db4c4f36e5a51a20578969f74e208fa') in 0.007561 seconds
+  Import took 0.014130 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003872 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.601 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2092 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.6 MB.
+System memory in use after: 99.5 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2594.
+Total: 2.191100 ms (FindLiveObjects: 0.212800 ms CreateObjectMapping: 0.084900 ms MarkObjects: 1.780400 ms  DeleteObjects: 0.111900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.774028 seconds.
+  path: Assets/Prefab/TowerDefence/Enemy.prefab
+  artifactKey: Guid(624b3429b65a211488aacac96c3c2e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/Enemy.prefab using Guid(624b3429b65a211488aacac96c3c2e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac6e86cda828844a110c5d38bc03adf2') in 0.079397 seconds
+  Import took 0.084369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002873 seconds.
+  path: Assets/Prefab/TowerDefence/Enemy.prefab
+  artifactKey: Guid(624b3429b65a211488aacac96c3c2e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/Enemy.prefab using Guid(624b3429b65a211488aacac96c3c2e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac6e86cda828844a110c5d38bc03adf2') in 0.014566 seconds
+  Import took 0.019971 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006517 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.495 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2093 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.6 MB.
+System memory in use after: 99.6 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2600.
+Total: 4.340000 ms (FindLiveObjects: 0.398100 ms CreateObjectMapping: 0.155200 ms MarkObjects: 3.623000 ms  DeleteObjects: 0.161700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006184 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.343 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.96 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2092 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.6 MB.
+System memory in use after: 99.6 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2604.
+Total: 4.590600 ms (FindLiveObjects: 0.237500 ms CreateObjectMapping: 0.100300 ms MarkObjects: 4.093600 ms  DeleteObjects: 0.157600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004706 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.319 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2092 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.6 MB.
+System memory in use after: 99.6 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2608.
+Total: 2.965700 ms (FindLiveObjects: 0.375500 ms CreateObjectMapping: 0.093500 ms MarkObjects: 2.349700 ms  DeleteObjects: 0.145200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 259.375692 seconds.
+  path: Assets/Prefab/TowerDefence/Enemy.prefab
+  artifactKey: Guid(624b3429b65a211488aacac96c3c2e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/Enemy.prefab using Guid(624b3429b65a211488aacac96c3c2e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e9e5213691e776474dfafecdf6224a7') in 0.057000 seconds
+  Import took 0.061415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.560189 seconds.
+  path: Assets/Prefab/TowerDefence/Enemy.prefab
+  artifactKey: Guid(624b3429b65a211488aacac96c3c2e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/Enemy.prefab using Guid(624b3429b65a211488aacac96c3c2e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3fabd3838bc0e579c618d3a688e9a7d') in 0.016935 seconds
+  Import took 0.031762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.396703 seconds.
+  path: Assets/Prefab/TowerDefence/Enemy.prefab
+  artifactKey: Guid(624b3429b65a211488aacac96c3c2e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/Enemy.prefab using Guid(624b3429b65a211488aacac96c3c2e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '442394d0b7a07c8ef602e0d4f17490bb') in 0.016691 seconds
+  Import took 0.021801 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006391 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.330 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2092 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.6 MB.
+System memory in use after: 99.6 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2613.
+Total: 2.386300 ms (FindLiveObjects: 0.204600 ms CreateObjectMapping: 0.083300 ms MarkObjects: 1.971200 ms  DeleteObjects: 0.125800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 392.984866 seconds.
+  path: Assets/Prefab/TowerDefence/Enemy.prefab
+  artifactKey: Guid(624b3429b65a211488aacac96c3c2e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/Enemy.prefab using Guid(624b3429b65a211488aacac96c3c2e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30eee03c09d006840d3268281ef38f6a') in 0.065740 seconds
+  Import took 0.069291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.594819 seconds.
+  path: Assets/Prefab/TowerDefence/Enemy.prefab
+  artifactKey: Guid(624b3429b65a211488aacac96c3c2e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/Enemy.prefab using Guid(624b3429b65a211488aacac96c3c2e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f9f9ac29b9bbbbed597c5bc10bee76e') in 0.012346 seconds
+  Import took 0.016925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.758287 seconds.
+  path: Assets/Prefab/TowerDefence/Enemy.prefab
+  artifactKey: Guid(624b3429b65a211488aacac96c3c2e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/Enemy.prefab using Guid(624b3429b65a211488aacac96c3c2e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e64cd58088c39b35997e6944a476c7f3') in 0.016444 seconds
+  Import took 0.023072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.424932 seconds.
+  path: Assets/Prefab/TowerDefence/Enemy.prefab
+  artifactKey: Guid(624b3429b65a211488aacac96c3c2e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/Enemy.prefab using Guid(624b3429b65a211488aacac96c3c2e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd24b79232df3d6aca7e7f54589574089') in 0.014407 seconds
+  Import took 0.019874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.147980 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(b2bf69aaf770aac4a922d99a0932beec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(b2bf69aaf770aac4a922d99a0932beec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5dc4c70f8464a9b77141e427af986fb') in 0.007956 seconds
+  Import took 0.013638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004679 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(b2bf69aaf770aac4a922d99a0932beec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(b2bf69aaf770aac4a922d99a0932beec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5dc4c70f8464a9b77141e427af986fb') in 0.002089 seconds
+  Import took 0.005977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.142632 seconds.
+  path: Assets/Materials/M_Floor.mat
+  artifactKey: Guid(e68dd4ce34f10f04bb20b231cdc1b7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/M_Floor.mat using Guid(e68dd4ce34f10f04bb20b231cdc1b7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a414855d2dc5df3b3a4f5c2c82c2733') in 0.044904 seconds
+  Import took 0.049306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.339796 seconds.
+  path: Assets/Materials/M_Floor.mat
+  artifactKey: Guid(e68dd4ce34f10f04bb20b231cdc1b7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/M_Floor.mat using Guid(e68dd4ce34f10f04bb20b231cdc1b7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eb7a697cfe8c5f84bdbc07a866b74ef') in 0.018068 seconds
+  Import took 0.023250 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004506 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.179 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2092 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.8 MB.
+System memory in use after: 99.8 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2651.
+Total: 2.891200 ms (FindLiveObjects: 0.202500 ms CreateObjectMapping: 0.077500 ms MarkObjects: 2.470300 ms  DeleteObjects: 0.139400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004311 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.217 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2092 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.8 MB.
+System memory in use after: 99.8 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2655.
+Total: 2.940700 ms (FindLiveObjects: 0.219800 ms CreateObjectMapping: 0.064200 ms MarkObjects: 2.468400 ms  DeleteObjects: 0.187100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004824 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.215 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2092 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.8 MB.
+System memory in use after: 99.8 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2659.
+Total: 2.700300 ms (FindLiveObjects: 0.214700 ms CreateObjectMapping: 0.079300 ms MarkObjects: 2.239000 ms  DeleteObjects: 0.166000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 554.944907 seconds.
+  path: Assets/Scripts/Sesion12/Tower
+  artifactKey: Guid(d8ffd9a179f6dea46a222b589deaff5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Sesion12/Tower using Guid(d8ffd9a179f6dea46a222b589deaff5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '610401abd2762708aa7869d3875be606') in 0.015220 seconds
+  Import took 0.022153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001784 seconds.
+  path: Assets/Scripts/Sesion12/Tower
+  artifactKey: Guid(d8ffd9a179f6dea46a222b589deaff5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Sesion12/Tower using Guid(d8ffd9a179f6dea46a222b589deaff5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '610401abd2762708aa7869d3875be606') in 0.004302 seconds
+  Import took 0.011394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.793981 seconds.
+  path: Assets/Scripts/Sesion12/Tower/TowerBase.cs
+  artifactKey: Guid(8d688c11e868a06419be5eec2d793073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Sesion12/Tower/TowerBase.cs using Guid(8d688c11e868a06419be5eec2d793073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '809795f7627f0579401caef813e5ee25') in 0.015648 seconds
+  Import took 0.023259 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004258 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.276 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2093 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.8 MB.
+System memory in use after: 99.8 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2664.
+Total: 3.393200 ms (FindLiveObjects: 0.307800 ms CreateObjectMapping: 0.117400 ms MarkObjects: 2.838500 ms  DeleteObjects: 0.128200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.471931 seconds.
+  path: Assets/Scripts/Sesion12/Tower/AreaDetector.cs
+  artifactKey: Guid(02705c087b06e2a48afb77c3f49a3d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Sesion12/Tower/AreaDetector.cs using Guid(02705c087b06e2a48afb77c3f49a3d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84e9cecad72b524c0d48dcded86ac2ef') in 0.014882 seconds
+  Import took 0.021591 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005778 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.17 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.587 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.9 MB.
+System memory in use after: 99.8 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2669.
+Total: 4.442100 ms (FindLiveObjects: 0.228000 ms CreateObjectMapping: 0.096800 ms MarkObjects: 3.907000 ms  DeleteObjects: 0.208900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004644 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.258 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.9 MB.
+System memory in use after: 99.9 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2673.
+Total: 4.247900 ms (FindLiveObjects: 0.386100 ms CreateObjectMapping: 0.131800 ms MarkObjects: 3.502900 ms  DeleteObjects: 0.225000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 271.748462 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0061696581d88ce70a77262089e0bb6') in 0.026158 seconds
+  Import took 0.030513 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005827 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.329 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.35 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.9 MB.
+System memory in use after: 99.9 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2677.
+Total: 2.689300 ms (FindLiveObjects: 0.232000 ms CreateObjectMapping: 0.129300 ms MarkObjects: 2.175100 ms  DeleteObjects: 0.151000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003987 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.14 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.300 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.9 MB.
+System memory in use after: 99.9 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2681.
+Total: 3.558000 ms (FindLiveObjects: 0.228300 ms CreateObjectMapping: 0.138000 ms MarkObjects: 3.017700 ms  DeleteObjects: 0.172200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003805 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.267 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.9 MB.
+System memory in use after: 99.9 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2685.
+Total: 4.755400 ms (FindLiveObjects: 0.877500 ms CreateObjectMapping: 0.392000 ms MarkObjects: 3.316300 ms  DeleteObjects: 0.167600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004769 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.288 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.9 MB.
+System memory in use after: 99.9 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2689.
+Total: 3.173300 ms (FindLiveObjects: 0.512600 ms CreateObjectMapping: 0.175900 ms MarkObjects: 2.333700 ms  DeleteObjects: 0.149400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003737 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.320 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.9 MB.
+System memory in use after: 99.9 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2693.
+Total: 2.572100 ms (FindLiveObjects: 0.280700 ms CreateObjectMapping: 0.096100 ms MarkObjects: 2.056300 ms  DeleteObjects: 0.135600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005087 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.416 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.9 MB.
+System memory in use after: 99.9 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2697.
+Total: 2.590000 ms (FindLiveObjects: 0.245600 ms CreateObjectMapping: 0.061700 ms MarkObjects: 2.135000 ms  DeleteObjects: 0.146800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004161 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.17 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.404 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.33 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.9 MB.
+System memory in use after: 99.9 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2701.
+Total: 2.830200 ms (FindLiveObjects: 0.265700 ms CreateObjectMapping: 0.110400 ms MarkObjects: 2.308600 ms  DeleteObjects: 0.144500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004248 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.224 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.0 MB.
+System memory in use after: 100.0 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2705.
+Total: 3.137200 ms (FindLiveObjects: 0.244600 ms CreateObjectMapping: 0.083400 ms MarkObjects: 2.626300 ms  DeleteObjects: 0.181500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006187 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.346 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.0 MB.
+System memory in use after: 100.0 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2709.
+Total: 2.593700 ms (FindLiveObjects: 0.289400 ms CreateObjectMapping: 0.101400 ms MarkObjects: 2.092300 ms  DeleteObjects: 0.109400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003692 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.278 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.0 MB.
+System memory in use after: 100.1 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2713.
+Total: 3.252100 ms (FindLiveObjects: 0.366700 ms CreateObjectMapping: 0.163100 ms MarkObjects: 2.528400 ms  DeleteObjects: 0.191600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005567 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.205 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.0 MB.
+System memory in use after: 100.1 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2717.
+Total: 3.735800 ms (FindLiveObjects: 0.489100 ms CreateObjectMapping: 0.183900 ms MarkObjects: 2.843500 ms  DeleteObjects: 0.218000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005310 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.324 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 100.1 MB.
+System memory in use after: 100.1 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2721.
+Total: 2.756200 ms (FindLiveObjects: 0.225600 ms CreateObjectMapping: 0.091000 ms MarkObjects: 2.270800 ms  DeleteObjects: 0.167800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007284 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.345 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.8 MB.
+System memory in use after: 103.1 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2731.
+Total: 4.071800 ms (FindLiveObjects: 0.318400 ms CreateObjectMapping: 0.112700 ms MarkObjects: 1.930500 ms  DeleteObjects: 1.709100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004973 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.128 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.11 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2104 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.7 MB.
+System memory in use after: 103.0 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2735.
+Total: 5.660400 ms (FindLiveObjects: 0.341700 ms CreateObjectMapping: 0.152000 ms MarkObjects: 3.114700 ms  DeleteObjects: 2.050500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 889.834820 seconds.
+  path: Assets/Polygon Arsenal/Prefabs
+  artifactKey: Guid(0ab7977278e4a704d8b7fe945ceca60e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs using Guid(0ab7977278e4a704d8b7fe945ceca60e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a2bbabebc632232a5d0f3f33e5c5266') in 0.011194 seconds
+  Import took 0.016441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.705840 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat
+  artifactKey: Guid(20d71f13164437d4d9941eb9f1a1fea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat using Guid(20d71f13164437d4d9941eb9f1a1fea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ddc119bab59da0df9f2fa2bb79e5105') in 0.007578 seconds
+  Import took 0.011911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.722222 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Bullet/BulletBlue.prefab
+  artifactKey: Guid(ada9d5c31c0e29b41bc5056c16b70b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Bullet/BulletBlue.prefab using Guid(ada9d5c31c0e29b41bc5056c16b70b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ae5f0afb783401647b0eb1d178d4ebd') in 0.046073 seconds
+  Import took 0.051365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Explosions/Sci-Fi/Bullet/BulletExplosionBlue.prefab
+  artifactKey: Guid(62bd9cb00576bac4fb66f9bcc0adf19d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Explosions/Sci-Fi/Bullet/BulletExplosionBlue.prefab using Guid(62bd9cb00576bac4fb66f9bcc0adf19d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cadb932a2a39c9be50eb33a699a5ed4') in 0.010986 seconds
+  Import took 0.015912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Muzzleflash/Sci-Fi/Bullet/BulletMuzzleGreen.prefab
+  artifactKey: Guid(a98de31d85cb52c46aad52608bb05259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Muzzleflash/Sci-Fi/Bullet/BulletMuzzleGreen.prefab using Guid(a98de31d85cb52c46aad52608bb05259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66b3a57e43a8febe0193008996dd31e6') in 0.012943 seconds
+  Import took 0.018839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Explosions/Sci-Fi/Bullet/BulletExplosionGreen.prefab
+  artifactKey: Guid(ddd5890b7dd2ac74ab4caeebf282b3f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Explosions/Sci-Fi/Bullet/BulletExplosionGreen.prefab using Guid(ddd5890b7dd2ac74ab4caeebf282b3f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ef2b2406b5c6e80923f0d8b530e3ebb') in 0.015711 seconds
+  Import took 0.021127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Polygon Arsenal/Models/PolyPowerBullets02.FBX
+  artifactKey: Guid(61657752867644b489c87c7d6e8e322c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Models/PolyPowerBullets02.FBX using Guid(61657752867644b489c87c7d6e8e322c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '165182fa997bb61aa07f451bf8b8bfd1') in 0.090938 seconds
+  Import took 0.095640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Explosions/Sci-Fi/Bullet/BulletExplosionYellow.prefab
+  artifactKey: Guid(d1e27766830781946b7e50a599bfaaac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Explosions/Sci-Fi/Bullet/BulletExplosionYellow.prefab using Guid(d1e27766830781946b7e50a599bfaaac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd44a883038059e0f0cb275bb757527ca') in 0.014492 seconds
+  Import took 0.020488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Explosions/Sci-Fi/Bullet/BulletExplosionPink.prefab
+  artifactKey: Guid(5c3ba859e2763bf4e837212aba554d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Explosions/Sci-Fi/Bullet/BulletExplosionPink.prefab using Guid(5c3ba859e2763bf4e837212aba554d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af3cf448712066643a87a363e8a76329') in 0.010588 seconds
+  Import took 0.014929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Muzzleflash/Sci-Fi/Bullet/BulletMuzzleRed.prefab
+  artifactKey: Guid(b44e9cfadf993934f85d04da2321eb4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Muzzleflash/Sci-Fi/Bullet/BulletMuzzleRed.prefab using Guid(b44e9cfadf993934f85d04da2321eb4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c5ac8ab0fb0df23b83b1505d5776319') in 0.014648 seconds
+  Import took 0.019880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Sniper/SniperBulletPurple.prefab
+  artifactKey: Guid(ddfe25ad400993f428dd1bcfae982327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Sniper/SniperBulletPurple.prefab using Guid(ddfe25ad400993f428dd1bcfae982327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f1a64c8b24423e43ec5633d0d8af9b5') in 0.011900 seconds
+  Import took 0.017335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Sniper/SniperBulletRed.prefab
+  artifactKey: Guid(fd0fae7b31157cb46ba6e7c61b03d027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Sniper/SniperBulletRed.prefab using Guid(fd0fae7b31157cb46ba6e7c61b03d027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98281be1cf1a985d2bada83b3f1df17f') in 0.012522 seconds
+  Import took 0.017760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Bullet/BulletGreen.prefab
+  artifactKey: Guid(a1abe34d22b8be947a05ddbb0137d2d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Bullet/BulletGreen.prefab using Guid(a1abe34d22b8be947a05ddbb0137d2d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a39f13f58ed62a84e54b61c69416468f') in 0.008889 seconds
+  Import took 0.013612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Explosions/Sci-Fi/Bullet/BulletExplosionPurple.prefab
+  artifactKey: Guid(23b6a853428b54c46a26f05a5b7d4771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Explosions/Sci-Fi/Bullet/BulletExplosionPurple.prefab using Guid(23b6a853428b54c46a26f05a5b7d4771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '403b13a99572c4e80b6edf24365c6b03') in 0.012078 seconds
+  Import took 0.017047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Polygon Arsenal/Models/PolygonPowerupBullets.FBX
+  artifactKey: Guid(3355b1e419fbb41429824765073c19ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Models/PolygonPowerupBullets.FBX using Guid(3355b1e419fbb41429824765073c19ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4350866b080b9eb673f1f2f29607c9cf') in 0.029990 seconds
+  Import took 0.034748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Sniper/SniperBulletYellow.prefab
+  artifactKey: Guid(bd2dbca414143634a80fb923d2235760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Sniper/SniperBulletYellow.prefab using Guid(bd2dbca414143634a80fb923d2235760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dd20ffb4ea3b6a9ac6505164c6622bd') in 0.014582 seconds
+  Import took 0.019377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Bullet/BulletPink.prefab
+  artifactKey: Guid(f32519dcf58417d42baabdf6e4f2c04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Bullet/BulletPink.prefab using Guid(f32519dcf58417d42baabdf6e4f2c04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4120e8a6655b1a492a90424fb5fa64b1') in 0.009399 seconds
+  Import took 0.014024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Sniper/SniperBulletPink.prefab
+  artifactKey: Guid(aae43871147267944b2036ef33e7ae33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Sniper/SniperBulletPink.prefab using Guid(aae43871147267944b2036ef33e7ae33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb72fca064efa415d929a6d3bf7bbdcf') in 0.010395 seconds
+  Import took 0.016177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Polygon Arsenal/Sound/Wav/poly_explosion_bullet.wav
+  artifactKey: Guid(d4bcb5c56d9c70c48998d3943e83f1cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Sound/Wav/poly_explosion_bullet.wav using Guid(d4bcb5c56d9c70c48998d3943e83f1cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63eeb2233cc7b16f7e5d2460ad9a7039') in 0.071920 seconds
+  Import took 0.075949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Bullet/BulletYellow.prefab
+  artifactKey: Guid(10ad1120f54e1924e945f7c26f3fabe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Bullet/BulletYellow.prefab using Guid(10ad1120f54e1924e945f7c26f3fabe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2cabfb8c8f2c5a8500a44bfdaf6b96d') in 0.013798 seconds
+  Import took 0.018711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Polygon Arsenal/Models/PolyPowerBullets.FBX
+  artifactKey: Guid(c6a94961ea841304c9abb2ee042585b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Models/PolyPowerBullets.FBX using Guid(c6a94961ea841304c9abb2ee042585b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8042f1eea54447eec55a6cec86ed637') in 0.019482 seconds
+  Import took 0.025930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Sniper/SniperBulletGreen.prefab
+  artifactKey: Guid(c053324c25539ef4383b2ea327b38ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Sniper/SniperBulletGreen.prefab using Guid(c053324c25539ef4383b2ea327b38ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8a60001f4e1306b1b96561d61346878') in 0.010174 seconds
+  Import took 0.015688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Explosions/Sci-Fi/Bullet/BulletExplosionRed.prefab
+  artifactKey: Guid(cf30c2341110d7f46aaa4dd8097403ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Explosions/Sci-Fi/Bullet/BulletExplosionRed.prefab using Guid(cf30c2341110d7f46aaa4dd8097403ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb7b5c04b0e98f33d3b982f4f9c08750') in 0.011940 seconds
+  Import took 0.017900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Muzzleflash/Sci-Fi/Bullet/BulletMuzzlePink.prefab
+  artifactKey: Guid(2d762d516726935469e13a0c6068a978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Muzzleflash/Sci-Fi/Bullet/BulletMuzzlePink.prefab using Guid(2d762d516726935469e13a0c6068a978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3b9eda8fc8e3b45bfedc161edfcd724') in 0.011953 seconds
+  Import took 0.017344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Polygon Arsenal/Models/PolyBullet.FBX
+  artifactKey: Guid(5896798959845b748b9019211c7e6e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Models/PolyBullet.FBX using Guid(5896798959845b748b9019211c7e6e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc76f26f2a2c1cf6b8f16becf95745ef') in 0.022059 seconds
+  Import took 0.026943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Bullet/BulletPurple.prefab
+  artifactKey: Guid(57ba8ec40e59a0f4da8a9c5ad91eda72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Bullet/BulletPurple.prefab using Guid(57ba8ec40e59a0f4da8a9c5ad91eda72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9bb94dda25eb941b15cb270cb885856') in 0.010599 seconds
+  Import took 0.016280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Muzzleflash/Sci-Fi/Bullet/BulletMuzzlePurple.prefab
+  artifactKey: Guid(b20bdb141aeb0354ea8542e830d49d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Muzzleflash/Sci-Fi/Bullet/BulletMuzzlePurple.prefab using Guid(b20bdb141aeb0354ea8542e830d49d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aab683839dd9196d3a2b80bd716b5de4') in 0.012155 seconds
+  Import took 0.016844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Polygon Arsenal/Sound/Prefabs/Missile/PolyBulletMissileSND.prefab
+  artifactKey: Guid(07ce6accd60d3304d9e4d7213ff2fc14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Sound/Prefabs/Missile/PolyBulletMissileSND.prefab using Guid(07ce6accd60d3304d9e4d7213ff2fc14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb53650f3acd791126e2ca9c57706355') in 0.011339 seconds
+  Import took 0.016794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Polygon Arsenal/Models/PolyPowerBullet.FBX
+  artifactKey: Guid(52d0bd6e4aee00143b33fe29c6913b38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Models/PolyPowerBullet.FBX using Guid(52d0bd6e4aee00143b33fe29c6913b38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ebdcdb838f5ef92300ceb30316154c9') in 0.015102 seconds
+  Import took 0.021030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000500 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Sniper/SniperBulletBlue.prefab
+  artifactKey: Guid(c27f216dc1a143c49a219e1f0e4a3c67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Sniper/SniperBulletBlue.prefab using Guid(c27f216dc1a143c49a219e1f0e4a3c67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4cce875b429ea1e75dad6f74a5e71d3') in 0.013520 seconds
+  Import took 0.018940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Muzzleflash/Sci-Fi/Bullet/BulletMuzzleBlue.prefab
+  artifactKey: Guid(c990de991a9e10245b04d95ec88912e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Muzzleflash/Sci-Fi/Bullet/BulletMuzzleBlue.prefab using Guid(c990de991a9e10245b04d95ec88912e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56d094d2260f58dc80c49eb2bb9dc61c') in 0.009537 seconds
+  Import took 0.013534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Polygon Arsenal/Sound/Prefabs/Explosions/PolyBulletExplosionSND.prefab
+  artifactKey: Guid(bb96dd857d6141649bf512d8512f38ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Sound/Prefabs/Explosions/PolyBulletExplosionSND.prefab using Guid(bb96dd857d6141649bf512d8512f38ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9ed220d2cfa5fed9e1e9c9491339a6c') in 0.007503 seconds
+  Import took 0.011410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Muzzleflash/Sci-Fi/Bullet/BulletMuzzleYellow.prefab
+  artifactKey: Guid(acad5363ee599db48a2fc0aecd98bc29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Muzzleflash/Sci-Fi/Bullet/BulletMuzzleYellow.prefab using Guid(acad5363ee599db48a2fc0aecd98bc29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99c8f6c2ddb57f571d2f903618083546') in 0.011216 seconds
+  Import took 0.015955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Bullet/BulletRed.prefab
+  artifactKey: Guid(8b258b932753a4c4c988b8527c8273e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Bullet/BulletRed.prefab using Guid(8b258b932753a4c4c988b8527c8273e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fa4382df8c261a1ac70cc119a6c471a') in 0.012503 seconds
+  Import took 0.019282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.559949 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Missiles
+  artifactKey: Guid(a61e338164fbfe540a7e356f5ed15ee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Missiles using Guid(a61e338164fbfe540a7e356f5ed15ee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5adba9d949e0f7d7e6178bf4def80472') in 0.008009 seconds
+  Import took 0.012478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.455260 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi
+  artifactKey: Guid(f5e35204040175147804dca9a445abd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi using Guid(f5e35204040175147804dca9a445abd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '387b8192deff41f86135cea8e023daf9') in 0.006791 seconds
+  Import took 0.010831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.704134 seconds.
+  path: Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Bullet
+  artifactKey: Guid(a870d3271b25f53478918275c09a8d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Polygon Arsenal/Prefabs/Combat/Missiles/Sci-Fi/Bullet using Guid(a870d3271b25f53478918275c09a8d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cafd1840aba8cb2bd8031b901662c11') in 0.007646 seconds
+  Import took 0.012938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.831598 seconds.
+  path: Assets/Prefab/TowerDefence/Enemy.prefab
+  artifactKey: Guid(624b3429b65a211488aacac96c3c2e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/Enemy.prefab using Guid(624b3429b65a211488aacac96c3c2e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a287ff5fe0a14f3383efbdd61967613') in 0.019331 seconds
+  Import took 0.024464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Prefab/TowerDefence/TowerA.prefab
+  artifactKey: Guid(7a3ea68c0b258544aa8b1ed25fd23249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/TowerA.prefab using Guid(7a3ea68c0b258544aa8b1ed25fd23249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '206d34a5773e840d5e7a2d053f23aff9') in 0.012481 seconds
+  Import took 0.016243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.859890 seconds.
+  path: Assets/Prefab/TowerDefence/ProjectileTower.prefab
+  artifactKey: Guid(ebb3eb078c7371140835b20cf1dffc7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/ProjectileTower.prefab using Guid(ebb3eb078c7371140835b20cf1dffc7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63fda6c0805f52d0750e47872c2a65a5') in 0.010551 seconds
+  Import took 0.015238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001340 seconds.
+  path: Assets/Prefab/TowerDefence/ProjectileTower.prefab
+  artifactKey: Guid(ebb3eb078c7371140835b20cf1dffc7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/ProjectileTower.prefab using Guid(ebb3eb078c7371140835b20cf1dffc7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63fda6c0805f52d0750e47872c2a65a5') in 0.011624 seconds
+  Import took 0.017058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.252637 seconds.
+  path: Assets/Scripts/Sesion12/Tower/ProjectileTower.cs
+  artifactKey: Guid(2589f802368edb744a46d0b2e4f64913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Sesion12/Tower/ProjectileTower.cs using Guid(2589f802368edb744a46d0b2e4f64913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bf820fdb83cf74998b03f661ba54769') in 0.014259 seconds
+  Import took 0.022388 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003896 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.538 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.07 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.8 MB.
+System memory in use after: 103.1 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2743.
+Total: 4.297700 ms (FindLiveObjects: 0.328800 ms CreateObjectMapping: 0.126400 ms MarkObjects: 2.286200 ms  DeleteObjects: 1.554500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004139 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.321 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.17 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.8 MB.
+System memory in use after: 103.1 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2747.
+Total: 4.234100 ms (FindLiveObjects: 0.260800 ms CreateObjectMapping: 0.088300 ms MarkObjects: 2.417200 ms  DeleteObjects: 1.466400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.848184 seconds.
+  path: Assets/Prefab/TowerDefence/ProjectileTower.prefab
+  artifactKey: Guid(ebb3eb078c7371140835b20cf1dffc7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/ProjectileTower.prefab using Guid(ebb3eb078c7371140835b20cf1dffc7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f998053fa15f4aa8141d89e5fb4c1a5d') in 0.030647 seconds
+  Import took 0.035242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Prefab/TowerDefence/TowerA.prefab
+  artifactKey: Guid(7a3ea68c0b258544aa8b1ed25fd23249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/TowerA.prefab using Guid(7a3ea68c0b258544aa8b1ed25fd23249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e62fb1d97837fd811e01c30dadbf72cc') in 0.059612 seconds
+  Import took 0.063765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.976703 seconds.
+  path: Assets/Prefab/TowerDefence/ProjectileTower.prefab
+  artifactKey: Guid(ebb3eb078c7371140835b20cf1dffc7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/TowerDefence/ProjectileTower.prefab using Guid(ebb3eb078c7371140835b20cf1dffc7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f77b68bc800e79197644cd0a575c7503') in 0.013601 seconds
+  Import took 0.021394 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006091 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.346 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.8 MB.
+System memory in use after: 103.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2752.
+Total: 5.826900 ms (FindLiveObjects: 0.728000 ms CreateObjectMapping: 0.317700 ms MarkObjects: 2.806900 ms  DeleteObjects: 1.971500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006588 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.32 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.344 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.8 MB.
+System memory in use after: 103.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2756.
+Total: 6.749400 ms (FindLiveObjects: 1.351200 ms CreateObjectMapping: 0.621000 ms MarkObjects: 2.804100 ms  DeleteObjects: 1.971100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004580 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.12 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.369 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.8 MB.
+System memory in use after: 103.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2760.
+Total: 4.238700 ms (FindLiveObjects: 0.264500 ms CreateObjectMapping: 0.097900 ms MarkObjects: 2.257200 ms  DeleteObjects: 1.617900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004053 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.377 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.27 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.8 MB.
+System memory in use after: 103.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2764.
+Total: 5.046900 ms (FindLiveObjects: 0.407000 ms CreateObjectMapping: 0.109200 ms MarkObjects: 2.504900 ms  DeleteObjects: 2.024800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006660 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.253 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.9 MB.
+System memory in use after: 103.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2768.
+Total: 7.196000 ms (FindLiveObjects: 0.572700 ms CreateObjectMapping: 0.256300 ms MarkObjects: 3.891300 ms  DeleteObjects: 2.474100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005143 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.409 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.8 MB.
+System memory in use after: 103.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2772.
+Total: 4.447700 ms (FindLiveObjects: 0.269600 ms CreateObjectMapping: 0.090100 ms MarkObjects: 2.231600 ms  DeleteObjects: 1.854800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008680 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.326 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.07 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.9 MB.
+System memory in use after: 103.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2776.
+Total: 4.680500 ms (FindLiveObjects: 0.416500 ms CreateObjectMapping: 0.136900 ms MarkObjects: 2.599400 ms  DeleteObjects: 1.526500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004544 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.298 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.09 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.9 MB.
+System memory in use after: 103.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2780.
+Total: 4.636700 ms (FindLiveObjects: 0.285800 ms CreateObjectMapping: 0.090900 ms MarkObjects: 2.723000 ms  DeleteObjects: 1.535700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004283 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.390 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.9 MB.
+System memory in use after: 103.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2784.
+Total: 4.064700 ms (FindLiveObjects: 0.298100 ms CreateObjectMapping: 0.105900 ms MarkObjects: 2.172500 ms  DeleteObjects: 1.487200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
